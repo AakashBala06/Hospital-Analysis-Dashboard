@@ -1,8 +1,8 @@
-# 🏥 Hospital Analysis Dashboard – Power BI
+#  Hospital Analysis Dashboard – Power BI
 
 This project is an interactive Power BI dashboard designed to visualize key trends in patient demographics, hospital visits, department referrals, and wait time efficiency. It enables healthcare professionals and analysts to explore patterns in service usage and identify areas for operational improvement.
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - **Total Visits Summary**
   - Total patient visits
@@ -21,7 +21,7 @@ This project is an interactive Power BI dashboard designed to visualize key tren
   - Wait time distribution by age and day of visit
 
 - **Interactive Slicers**
-  - Filter by age group, gender, race, referral department
+  - Filter by age group, gender, race, and referral department
   - Dynamic visual updates based on selection
 
 ##  Data Source
@@ -54,7 +54,7 @@ A cleaned synthetic healthcare dataset including the following fields:
 - **Dashboard Storytelling**
 
 
-## 📸 Screenshot
+##  Screenshot
 <img width="553" alt="image" src="https://github.com/user-attachments/assets/f0dadf36-da59-407a-bfe0-daac0db40758" />
 
 
